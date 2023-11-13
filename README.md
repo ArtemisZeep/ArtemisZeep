@@ -22,6 +22,7 @@ I was born in Novosibirsk :cityscape:, live in Saint-Petersburg :city_sunrise:
 
 Now I am graduating from the Faculty of Management of the Higher School of Economics :man_student:
 
+Really love to make electronic music :headphones:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
