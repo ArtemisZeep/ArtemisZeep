@@ -15,6 +15,8 @@
 <img src="https://komarev.com/ghpvc/?username=ArtemisZeep&style=flat-square&color=blue" alt="" class="counter"/>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 I was born in Novosibirsk, live in Saint-Petersburg. Now I am graduating from the Faculty of Management of the Higher School of Economics.
 
