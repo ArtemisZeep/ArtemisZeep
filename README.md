@@ -18,4 +18,7 @@
 </div>
 </div>
 
+## About me
+I was born in Novosibirsk, live in Saint-Petersburg. Now I am graduating from the Faculty of Management of the Higher School of Economics.
+
 
