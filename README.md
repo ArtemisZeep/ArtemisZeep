@@ -12,12 +12,6 @@
   </a>
     <img src="https://komarev.com/ghpvc/?username=ArtemisZeep&style=flat-square&color=blue" alt="" class="counter"/>
 </div>
-  <style>
-  .page {
-    display: flex;
-    flex-direction: row;
-  }
-</style>
 </div>
 
 
