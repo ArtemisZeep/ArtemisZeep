@@ -1,4 +1,4 @@
-<div id="header" align="center" class="page">
+<div id="header" align="center" >
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="270"/>
   <div id="badges" class="links">
   <a href="https://www.linkedin.com/in/artemiy-zemlyanukhin-a56ba9221" class="link">
