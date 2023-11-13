@@ -47,3 +47,4 @@ Really love to make electronic music :headphones:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtemisZeep)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisZeep)](https://github.com/anuraghazra/github-readme-stats)
