@@ -14,11 +14,10 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ArtemisZeep&style=flat-square&color=blue" alt="" class="counter"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ## About me
 I was born in Novosibirsk, live in Saint-Petersburg. Now I am graduating from the Faculty of Management of the Higher School of Economics.
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
