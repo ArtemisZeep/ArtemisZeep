@@ -10,8 +10,9 @@
   <a href="https://t.me/artemiszeep" class="link">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=ArtemisZeep&style=flat-square&color=blue" alt="" class="counter"/>
+    
 </div>
+<img src="https://komarev.com/ghpvc/?username=ArtemisZeep&style=flat-square&color=blue" alt="" class="counter"/>
 </div>
 
 
